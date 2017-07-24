@@ -11,6 +11,7 @@ A Full stack Blog Page created using MEN stack.
 	- Mongoose
 	- RESTful Web Services
 	- MethodOverriding to override the PUT and DELETE methods in HTML since HTML does not allow PUT and DELETE methods to be used in forms
+	
 * * *
 ### Home Page
 ![](images/home.png)
