@@ -16,7 +16,7 @@ A Full stack Blog Page created using MEN stack.
 ![](images/home.png)
 * * *
 ### More Page
-![](imagees/more.png)
+![](images/more.png)
 * * *
 ### Add Blog Page
 ![](images/add.png)
